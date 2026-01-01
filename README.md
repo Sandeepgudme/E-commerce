@@ -6,6 +6,8 @@ tablet, and mobile devices.
 
 ---
 
+![image alt](https://github.com/Sandeepgudme/E-commerce/blob/main/Screenshot%202026-01-01%20084720.png?raw=true)
+
 ## 🚀 Features
 
 - Product listing fetched from external API
@@ -35,6 +37,7 @@ tablet, and mobile devices.
   https://dummyjson.com/products
 
 ---
+
 
 
 
