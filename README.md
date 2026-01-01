@@ -4,7 +4,8 @@ ShoppyGlobe is a React-based e-commerce web application that allows users to bro
 add items to a shopping cart, and proceed to checkout. The application is fully responsive and works seamlessly across desktop, 
 tablet, and mobile devices.
 
-Visit the site now at : https://sandeepgudme.github.io/
+Visit the site now at : https://sandeepgudme.github.io/E-commerce/
+
 ---
 
 ![image alt](https://github.com/Sandeepgudme/E-commerce/blob/main/Screenshot%202026-01-01%20084720.png?raw=true)
@@ -38,6 +39,7 @@ Visit the site now at : https://sandeepgudme.github.io/
   https://dummyjson.com/products
 
 ---
+
 
 
 
